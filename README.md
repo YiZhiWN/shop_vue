@@ -1,1 +1,1 @@
-# shop-vue
+a simple shop
